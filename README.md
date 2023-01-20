@@ -18,3 +18,7 @@ My solutions of LeetCode Problems
 ### 长度最小的子数组
 [209. Minimum Size Subarray Sum](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/209.%20Minimum%20Size%20Subarray%20Sum.md)<br>
 [904. Fruit Into Baskets](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/904.%20Fruit%20Into%20Baskets.md)<br>
+[76. Minimum Window Substring](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/76.%20Minimum%20Window%20Substring.md)
+### 螺旋矩阵
+[59. Spiral Matrix II](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/59.%20Spiral%20Matrix%20II.md)<br>
+[54. Spiral Matrix](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/54.%20Spiral%20Matrix.md)
