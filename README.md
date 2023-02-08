@@ -34,6 +34,22 @@ My solutions of LeetCode Problems
 [24. Swap Nodes in Pairs](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/24.%20Swap%20Nodes%20in%20Pairs.md)<br>
 ### 删除链表的倒数第N个节点
 [19. Remove Nth Node From End of List](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)<br>
+### 链表相交
+[160. Intersection of Two Linked Lists](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/160.%20Intersection%20of%20Two%20Linked%20Lists.md)<br>
+### 环形链表II
+[142. Linked List Cycle II](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/142.%20Linked%20List%20Cycle%20II.md)<br>
 
+## 哈希表
+### 有效的字母异位词
+[242. Valid Anagram](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/242.%20Valid%20Anagram.md)<br>
+[49. Group Anagrams](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/49.%20Group%20Anagrams.md)<br>
+[438. Find All Anagrams in a String](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/438.%20Find%20All%20Anagrams%20in%20a%20String.md)<br>
+### 两个数组的交集
+[349. Intersection of Two Arrays](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/349.%20Intersection%20of%20Two%20Arrays.md)<br>
+[350. Intersection of Two Arrays II](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/350.%20Intersection%20of%20Two%20Arrays%20II.md)<br>
+### 快乐数
+[202. Happy Number](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/202.%20Happy%20Number.md)<br>
+### 赎金信
+[383. Ransom Note](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/383.%20Ransom%20Note.md)<br>
 
 
