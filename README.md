@@ -32,6 +32,8 @@ My solutions of LeetCode Problems
 [206. Reverse Linked List](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/206.%20Reverse%20Linked%20List.md)<br>
 ### 两两交换链表中的节点
 [24. Swap Nodes in Pairs](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/24.%20Swap%20Nodes%20in%20Pairs.md)<br>
+### 删除链表的倒数第N个节点
+[19. Remove Nth Node From End of List](https://github.com/HikariXuXu/LeetCode_Practice/blob/main/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)<br>
 
 
 
